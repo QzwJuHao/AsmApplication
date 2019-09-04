@@ -1,0 +1,2 @@
+include ':app', ':asm-plugin'
+rootProject.name='AsmApplication'
